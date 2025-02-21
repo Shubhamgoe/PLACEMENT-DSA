@@ -1,0 +1,9 @@
+Today I did 1D DP, was able to do it nicely, feeling more better
+I did some research on how react actually works, why better ----> VDOM, Fibres, Diffing, Reconcilation
+
+
+Tomorrow do better
+1. Parallel runtime in modern processors, lecture User level threads + revise second half
+2. DP (2D)
+3. React practice first + then theory(understand fibres gitrepo top down ) (its not about everything its just about knowing everything about 1 thing)
+
